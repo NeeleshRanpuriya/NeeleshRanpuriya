@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neelesh Ranpuriya</h1>
 
-<h3 align="center">Engineering Student | Full Stack Developer | AI & Deep Learning Enthusiast</h3>
+<h3 align="center">
+  Engineering Student | Full Stack Developer | AI & Deep Learning Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Learner;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -86,26 +92,6 @@ A machine learning project for detecting fake news using NLP and text classifica
 **Technologies:** Python, Jupyter Notebook, Machine Learning, NLP  
 
 [View Code](https://github.com/NeeleshRanpuriya/Fake-news-detection)
-
----
-
-### 🌐 Web-dev
-
-A repository showing my web development journey and practice work.
-
-**Technologies:** HTML, CSS, JavaScript  
-
-[View Code](https://github.com/NeeleshRanpuriya/Web-dev)
-
----
-
-### 💻 Project
-
-A repository for my programming and development work.
-
-**Technologies:** Programming, Web Development, Project Work  
-
-[View Code](https://github.com/NeeleshRanpuriya/Project)
 
 ---
 
