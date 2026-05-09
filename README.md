@@ -113,13 +113,7 @@ A machine learning project for detecting fake news using NLP and text classifica
 
 ---
 
-## 📊 GitHub Stats
-
-![Neelesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeeleshRanpuriya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=NeeleshRanpuriya&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeeleshRanpuriya&theme=dark&hide_border=false&layout=compact)
+hide_border=false&layout=compact)
 
 ---
 
