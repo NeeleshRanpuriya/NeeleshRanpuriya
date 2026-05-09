@@ -70,8 +70,12 @@ An interactive deep learning learning platform for understanding neural networks
 
 **Technologies:** TypeScript, React, Deep Learning Concepts  
 
-[View Live](https://deep-learning-virtual-lab.vercel.app/)  
-[View Code](https://github.com/NeeleshRanpuriya/Deep-Learning-Virtual-Lab)
+<a href="https://deep-learning-virtual-lab.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_LIVE-00B894?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/NeeleshRanpuriya/Deep-Learning-Virtual-Lab" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -81,7 +85,9 @@ A real-time AI chat moderation system designed to detect toxicity, intent, and t
 
 **Technologies:** TypeScript, AI Moderation, Web Development  
 
-[View Code](https://github.com/NeeleshRanpuriya/Advanced-AI-Chat-Moderation-Toxicity-Detection-Engine)
+<a href="https://github.com/NeeleshRanpuriya/Advanced-AI-Chat-Moderation-Toxicity-Detection-Engine" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -91,8 +97,9 @@ A machine learning project for detecting fake news using NLP and text classifica
 
 **Technologies:** Python, Jupyter Notebook, Machine Learning, NLP  
 
-[View Code](https://github.com/NeeleshRanpuriya/Fake-news-detection)
-
+<a href="https://github.com/NeeleshRanpuriya/Fake-news-detection" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ---
 
 ## 💼 Experience
