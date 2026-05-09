@@ -21,7 +21,7 @@ I like building real-world projects and learning new technologies.
 
 ---
 
-## 🌐 Connect With Me
+## <h2 align="center">🌐 Connect With Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelesh-ranpuriya-0920512b2)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeeleshRanpuriya)
@@ -62,7 +62,7 @@ I like building real-world projects and learning new technologies.
 
 ---
 
-## 📂 Projects
+## <h2 align="center">📂 Projects</h2>
 
 ### 🧠 Deep Learning Virtual Lab
 
