@@ -113,13 +113,6 @@ A machine learning project for detecting fake news using NLP and text classifica
 <a href="https://github.com/NeeleshRanpuriya/Fake-news-detection" target="_blank">
   <img src="https://img.shields.io/badge/VIEW_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
----
-
-
-
----
-
-hide_border=false&layout=compact)
 
 ---
 
