@@ -40,7 +40,7 @@ I like building real-world projects and learning new technologies.
 
 ---
 
-## 🛠️ Skills
+## <h1 align="center">🛠️ Skills</h1>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -102,14 +102,7 @@ A machine learning project for detecting fake news using NLP and text classifica
 </a>
 ---
 
-## 💼 Experience
 
-### Web Development & Designing Intern  
-**The Sparks Foundation**
-
-- Built a basic banking application
-- Worked with HTML, CSS, JavaScript, Node.js, Express, and MySQL
-- Learned practical web development and backend integration
 
 ---
 
