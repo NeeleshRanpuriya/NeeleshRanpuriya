@@ -115,6 +115,29 @@ A machine learning project for detecting fake news using NLP and text classifica
 </a>
 
 ---
+---
+
+### 📊 Data Science Series
+
+A beginner-friendly Data Science learning series covering Python, NumPy, Pandas, Matplotlib, data analysis, and basic machine learning concepts through practical examples.
+
+**Technologies:** Python, NumPy, Pandas, Matplotlib, Data Science  
+
+<a href="https://github.com/NeeleshRanpuriya/Data-Science-Series" target="_blank">
+  <img src="https://img.shields.io/badge/EXPLORE_SERIES-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🌐 Website Development Series
+
+A Web Development learning series focused on building websites using HTML, CSS, JavaScript, and modern frontend development concepts.
+
+**Technologies:** HTML, CSS, JavaScript, Web Development  
+
+<a href="https://github.com/NeeleshRanpuriya/Website-Devlopment-Series" target="_blank">
+  <img src="https://img.shields.io/badge/EXPLORE_SERIES-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ## 👀 Profile Views
 
