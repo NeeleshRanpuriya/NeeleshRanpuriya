@@ -98,9 +98,6 @@ An AI-powered governance platform that coordinates multiple AI agents to researc
   <img src="https://img.shields.io/badge/VIEW_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/NeeleshRanpuriya/agentgov-ai-starter/tree/main/screenshots" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW_SCREENSHOTS-0077B5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 ### 🗺️ GeoIndia Dashboard
 
 An interactive data visualization application for exploring India's census and demographic data through dynamic maps and district-level analytics.
