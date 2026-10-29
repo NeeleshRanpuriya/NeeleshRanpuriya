@@ -81,6 +81,26 @@ I enjoy building scalable web applications, interactive dashboards, and AI-power
 
 ## 📂 Featured Projects
 
+### 🛡️ AgentGov AI — Multi-Agent AI Governance Platform
+
+An AI-powered governance platform that coordinates multiple AI agents to research tasks, analyze results, review policy compliance, and support human approval with audit logging.
+
+**Key Features:**
+- 🤖 Multi-agent workflow: Research → Analyst → Reviewer
+- 🛡️ Policy checks and human approval queue
+- 📜 Audit events for workflow tracking
+- 🗄️ MongoDB Atlas persistence
+- ⚡ REST APIs built with FastAPI
+
+**Technologies:** React, TypeScript, Vite, Python, FastAPI, MongoDB Atlas, Google Gemini API
+
+<a href="https://github.com/NeeleshRanpuriya/agentgov-ai-starter" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/NeeleshRanpuriya/agentgov-ai-starter/tree/main/screenshots" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_SCREENSHOTS-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ### 🗺️ GeoIndia Dashboard
 
 An interactive data visualization application for exploring India's census and demographic data through dynamic maps and district-level analytics.
@@ -90,8 +110,6 @@ An interactive data visualization application for exploring India's census and d
 <a href="https://github.com/NeeleshRanpuriya/GeoIndia-Dashboard" target="_blank">
   <img src="https://img.shields.io/badge/VIEW_CODE-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
----
 
 ### 🧠 Deep Learning Virtual Lab
 
